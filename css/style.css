@@ -5,7 +5,7 @@
 }
 .background{
   position: relative;
-  background: url("../images/background.jpg") no-repeat center center/cover;
+  background: url("../images/background.webp") no-repeat center center/cover;
   height: 19cm;
   overflow: hidden;
 }
